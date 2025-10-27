@@ -10,5 +10,4 @@ git clone https://github.com/SonicGFX/local_manifests --depth 1 -b cr16 .repo/lo
 /opt/crave/resync.sh
 
 . build/envsetup.sh
-lunch lineage_garnet-bp2a-userdebug
-mka bacon
+brunch garnet
